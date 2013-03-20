@@ -1,6 +1,6 @@
-(defproject compojure/lein-template "0.2.5"
+(defproject compojure/lein-template "0.2.6"
   :description "Compojure project template for Leiningen"
-  :url "https://github.com/weavejester/compojure-template"
+  :url "https://github.com/snufkon/compojure-template"
   :eval-in-leiningen true
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
